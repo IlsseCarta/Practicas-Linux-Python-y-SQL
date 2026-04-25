@@ -427,7 +427,7 @@ print(url[8:ind])
 #### Conclusion
 # **What are your key takeaways from this lab?**
 
-<P>
+
 En este ejercicio aprendí a trabajar con cadenas en Python, una habilidad clave en ciberseguridad. Practiqué cómo convertir datos a texto, validar su longitud y estandarizar formatos, como en el caso de los IDs de empleados.
 También apliqué indexación y slicing para extraer información específica dentro de una cadena, lo cual es fundamental para analizar datos como identificadores y URLs. Además, utilicé el método .index() para localizar posiciones dentro de una cadena y así facilitar la extracción de información.También logré descomponer una URL en sus partes principales (protocolo, nombre del sitio y extensión), lo que refleja un uso práctico de estas herramientas en el análisis de datos reales.
 # 
