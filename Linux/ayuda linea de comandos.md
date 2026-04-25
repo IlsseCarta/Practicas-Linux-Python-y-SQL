@@ -1,0 +1,33 @@
+
+## 🐧 Linux Lab: Obtén ayuda en la línea de comandos. 
+
+### 📌 Overview  
+En esta práctica se exploraron herramientas de ayuda en la línea de comandos de Linux para comprender el uso de distintos comandos, sus opciones y su aplicación en tareas específicas.
+
+---
+
+### 🎯 Objetivos  
+- Obtener descripciones rápidas de comandos  
+- Consultar documentación detallada  
+- Identificar opciones disponibles  
+- Encontrar comandos mediante palabras clave  
+
+---
+
+### 🧪 Actividades  
+
+#### 🔹 Task 1: Obtener información sobre comandos  
+Se utilizaron diferentes herramientas para conocer el funcionamiento de comandos en Linux:
+
+- `whatis` → Muestra una descripción breve  
+- `man` → Despliega documentación completa  
+- `apropos` → Permite buscar comandos por palabras clave  
+
+📌 Ejemplos:
+- `whatis cat`
+- `man cat`
+- `apropos print`
+
+
+### Evidencia
+🔗Click aquí https://drive.google.com/file/d/1T2O4SrPmJmSgeOfsuL573VTtzBphN69_/view?usp=drive_link
